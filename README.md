@@ -1,4 +1,4 @@
-````markdown
+
 # IAM-Secure API
 
 Microservicio de gestión de identidades y accesos (IAM) desarrollado con FastAPI. Implementa registro y autenticación de usuarios, emisión de tokens JWT y autorización basada en roles y permisos (RBAC).
@@ -295,5 +295,3 @@ También se observó lo siguiente:
 - La configuración de Docker Compose se puede resolver correctamente.
 - Docker Compose reporta únicamente la advertencia sobre la propiedad obsoleta `version`.
 - No fue posible considerar el servicio ejecutable de extremo a extremo sin corregir los dos bloqueos de inicialización señalados.
-````
-
